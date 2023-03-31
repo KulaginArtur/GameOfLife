@@ -1,3 +1,3 @@
 # GameOfLife
 
-Simple John Horton Conway's Game Of Live Made with C++
+Simple John Horton Conway's Game Of Life Made with C++
